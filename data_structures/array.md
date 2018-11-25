@@ -23,7 +23,7 @@ An array supports the following operations:
 - **search**: find a value stored in the structure and determine the indexed position in the array.
   - O(n), linear time. There is no way to find a specific value in an array without iterating through the entire array (unless the array is sorted). Given the value we would like to find, we must iterate through each element in the array until finding the position of the value. Therefore, on average, this is a linear O(n) operation.
 - **insertion**: insert an element at a given index in the array.
-  - O(n), linear time. When inserting into an array, each element to the left of to-be-inserted position must be shifted over one position to the right to make room for the new element (see diagram). Therefore, on average, the algorithm will need to shift over 'n' elements making the process an O(n) operation.
+  - O(n), linear time. When inserting into an array, each element to the left of the to-be-inserted position must be shifted over one position to the right to make room for the new element (see diagram). Therefore, on average, the algorithm will need to shift over 'n' elements making the process an O(n) operation.
 - **deletion**: deleting an element at a given index in the array.
   - O(n), linear time. This operation is very similar to the insertion operation. When deleting an element, the value at the index position is deleted, and all elements to the right are shifted one position to the left. On average, 'n' elements need to be shifted making this an O(n) operation.
 
