@@ -1,4 +1,4 @@
-# \[Widget\]
+# Doubly Linked List
 
 A doubly linked list is a collection of nodes that connect to one another in both directions.
 
