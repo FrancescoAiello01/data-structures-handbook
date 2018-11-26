@@ -18,5 +18,6 @@ This is a summary of the data structures I have mastered throughout my studies a
 - [Set](data_structures/set.md)
 - [Tuple](data_structures/tuple.md)
 - [Dictionary](data_structures/dictionary.md)
+- [Graph](data_structures/graph.md)
 
 (c) Francesco Aiello. All rights reserved.

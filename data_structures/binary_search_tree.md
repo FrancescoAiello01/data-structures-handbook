@@ -4,9 +4,9 @@ A binary search tree (BST) is a node-based tree that dictates the position of in
 
 # In Memory
 
-In memory, a BST looks like this:
+In memory, a BST looks similarly to this:
 
-![Image of Array in Memory](../images/bst_memory.png)
+![Image of BST in Memory](../images/bst_memory.png)
 
 A BST is very similar to a linked list in memory. Each element has link to a parent, child and value.
 
