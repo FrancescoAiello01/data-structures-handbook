@@ -4,11 +4,11 @@ A singly linked list is a collection of nodes that connect to one another in one
 
 # In Memory
 
-In memory, a \[widget\] looks like this:
+In memory, a singly linked list looks like this:
 
 ![Image of singly linked list in Memory](../images/bst_memory.png)
 
-Each node as a value and the memory address of the next node, or in simpler words, a link.
+Each node as a value and the memory address of the next node, or in simpler words, a link. The beginning is called the head and the end is called the tail.
 
 # Operations
 
