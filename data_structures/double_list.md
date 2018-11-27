@@ -19,9 +19,9 @@ A doubly linked list supports the following operations:
 - **search**: search for a value stored in a doubly linked list.
   - O(n), linear efficiency. Similar to retrieval, the algorithm always starts at the head or tail and searches through linearly checking each value. Therefore, for 'n' nodes, the efficiency is O(n).
 - **insertion**: insert a value at a given position in a doubly linked list.
-  - O(1), constant time. Inserting into a linked list is constant efficiency. At the given position, the previous and next node's next and previous are updated to match the inserted node. And, the inserted node's next and previous are updated to match the position.. Therefore, this always takes the same computation regardless of the size of the list.
+  - O(1), constant time. Inserting into a linked list is constant efficiency. At the given position, the previous and next node's next and previous are updated to match the inserted node. And, the inserted node's next and previous are updated to match the position. Therefore, this always takes the same computation regardless of the size of the list.
 - **deletion**: remove a value from a given position in a doubly linked list.
-  - O(1), constant time. At the given position, the algorithm node to be deleted's previous and next node's previous and next to match the updated list.
+  - O(1), constant time. At the given position, the algorithm changes the node to be deleted's previous and next node's previous and next to match the updated list.
 
 # Use Cases
 

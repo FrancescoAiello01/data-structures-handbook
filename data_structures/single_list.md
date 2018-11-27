@@ -1,4 +1,4 @@
-# \[Widget\]
+# Singly Linked List
 
 A singly linked list is a collection of nodes that connect to one another in one direction from the head.
 
