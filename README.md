@@ -18,5 +18,7 @@ This is a summary of the data structures I have mastered throughout my studies a
 - [Tuple](data_structures/tuple.md)
 - [Dictionary](data_structures/dictionary.md)
 - [Graph](data_structures/graph.md)
+- [Priority Queue](data_structures/priority_queue.md)
+- [Deque](data_structures/deque.md)
 
 (c) Francesco Aiello. All rights reserved.
