@@ -13,7 +13,6 @@ This is a summary of the data structures I have mastered throughout my studies a
 - [Doubley-Linked List](data_structures/double_list.md)
 - [Hash Table](data_structures/hash_table.md)
 - [Binary Search Tree](data_structures/binary_search_tree.md)
-- [Red-Black Tree](data_structures/red_black_tree.md)
 - [AVL Tree](data_structures/avl_tree.md)
 - [Set](data_structures/set.md)
 - [Tuple](data_structures/tuple.md)
