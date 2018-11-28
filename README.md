@@ -16,7 +16,6 @@ This is a summary of the data structures I have mastered throughout my studies a
 - [AVL Tree](data_structures/avl_tree.md)
 - [Set](data_structures/set.md)
 - [Tuple](data_structures/tuple.md)
-- [Dictionary](data_structures/dictionary.md)
 - [Graph](data_structures/graph.md)
 - [Priority Queue](data_structures/priority_queue.md)
 - [Deque](data_structures/deque.md)
