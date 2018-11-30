@@ -6,9 +6,9 @@ An AVL tree is a self-balancing binary search tree. The tree automatically balan
 
 In memory, an AVL tree looks like this:
 
-\[sketch or diagram\]
+![Image of BST in Memory](../images/bst_memory.png)
 
-\[description of diagram\]
+An AVL tree is very similar to a linked list in memory. Each element has link to a parent, child and value.
 
 # Operations
 

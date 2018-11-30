@@ -6,7 +6,7 @@ A hash table is an unordered collection of data stored as key:value pairs.
 
 In memory, a hash table looks like this:
 
-![Image of hash table in Memory](../images/hash table_memory.png)
+![Image of hash table in Memory](../images/dictionary_memory.png)
 
 A hashing function is generally (not always) the first step of a hash table in memory. It points to a key, which then provides an index to the value. In the above representation, the collection of values is a doubly linked list.
 
