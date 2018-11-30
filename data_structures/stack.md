@@ -38,4 +38,4 @@ my_stack.peek()
 my_stack.pop()
 ```
 
-(c) 2018 YOUR NAME. All rights reserved.
+(c) 2018 Francesco Aiello. All rights reserved.
